@@ -598,6 +598,18 @@ section{
     justify-content: space-between;
     align-items: center;
   }
+  .experience .title2 { 
+    padding: 10px 30px;
+    border-radius: 30px;
+    color: #9d1879;
+    border: 1px solid;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
   .experience .title:after {
     content: "▼";
     display: inline-block;
